@@ -38,7 +38,7 @@
                         <span style="color:#fff">COUNSELS</span>
                     </h1>
                 </div>
-                <div class="col-md-6 ftco-animate fadeInUp d-none d-lg-block" style="padding: 2%;text-align: left;background:#afa93987">
+                <div class="col-md-6 ftco-animate fadeInUp d-none d-lg-block" style="margin-top:120px; padding: 2%;text-align: left;background:#afa93987">
                     <h1 style="font-size:20px;">Why Us ?</h1>
                     <ul style="color: #fff;">
                         <li class="ftco-animate">Practical Approach</li>

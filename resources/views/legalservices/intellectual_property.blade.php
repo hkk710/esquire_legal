@@ -33,7 +33,7 @@
                         Our intellectual property experts work closely with you to understand your business goals and safeguard your creative ideas both now and in the future.
                     </p>
                     <h5>
-                        Enforcement of intellectual property rights nationally andworldwide
+                        Enforcement of intellectual property rights nationally and worldwide
                     </h5>
                     <p>
                         Intellectual property rights help your business maintain a competitive edge in the marketplace. Our specialist intellectual property lawyers enforce these rights against infringers to protect and enhance your business’s success.

@@ -29,7 +29,7 @@
                 <div class="col-md-9 ftco-animate" style="padding-top:5%">
                     <h2 class="subheading ftco-animate">ABOUT US</h2>
                     <p class="ftco-animate">ESQUIRE LEGAL is a niche full-service Indian law firm offering transactional, regulatory, advisory, dispute resolution, criminal, civil, and tax services, operating in Bengaluru, Kochi, and Delhi. The firm is the outcome of the coalescence
-                        of several professionals including Lawyers, Company Secretaries, and Chartered Accountants. The Firm has access to a network of experienced lawyers in all major commercial cities of India. The Firm is professionally equipped to
+                        of several professionals including Lawyers, Company Secretaries, and Chartered Accountants. The Firm has experienced lawyers as associates in all major commercial cities of India. The Firm is professionally equipped to
                         handle large-sized and complex corporate transactions like Mergers & Acquisitions, Corporate Restructuring, Joint Ventures, Corporate Taxation, etc. </p>
                     <p class="ftco-animate">We are at the cutting edge of white-collar and criminal defense cases. We advise clients to achieve reduced penalties where a conviction cannot be avoided. </p>
                     <p class="ftco-animate">The Firm also offers proven capabilities in litigation and dispute resolution practice areas, litigation in the Supreme Court, various High Courts of India and various judicial and quasi-judicial tribunals/ forums, and other adjudicatory
