@@ -1,5 +1,5 @@
 @include('partials.header')
-
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <body>
     <!-- Modal -->
     <div class="modal fade" id="discaimermdal" data-backdrop="static" data-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
