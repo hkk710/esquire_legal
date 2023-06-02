@@ -25,7 +25,7 @@
 @include('partials.navbar')
     <!-- END nav -->
 
-    <div class="hero-wrap js-fullheight" style="background-image: url('images/bg_1.png'); height: 840px; background-position: 50% -3.8px;" data-stellar-background-ratio="0.9">
+    <div class="hero-wrap js-fullheight" style="background-image: url('images/bg_1.png');" data-stellar-background-ratio="0.9">
         <div class="overlay"></div>
         <div class="container overflow-auto">
             <div class="row no-gutters slider-text js-fullheight align-items-center justify-content-start" data-scrollax-parent="true">
