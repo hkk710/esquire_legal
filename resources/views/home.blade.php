@@ -1,5 +1,5 @@
 @include('partials.header')
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <body>
     <!-- Modal -->
     <div class="modal fade" id="discaimermdal" data-backdrop="static" data-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
@@ -25,7 +25,7 @@
 @include('partials.navbar')
     <!-- END nav -->
 
-    <div class="hero-wrap js-fullheight" style="background:black; background-size:cover;background-repeat:no-repeat;background-possition:center" data-stellar-background-ratio="0.9">
+    <div class="hero-wrap js-fullheight" style="background-image: url('{{ asset('images/bg_1.png') }}');" data-stellar-background-ratio="0.9">
         <div class="overlay"></div>
         <div class="container overflow-auto">
             <div class="row no-gutters slider-text js-fullheight align-items-center justify-content-start" data-scrollax-parent="true">
@@ -38,7 +38,7 @@
                         <span style="color:#fff">COUNSELS</span>
                     </h1>
                 </div>
-                <div class="col-md-6 ftco-animate fadeInUp d-none d-lg-block" style="padding: 2%;text-align: left;background:#afa93987">
+                <div class="col-md-6 ftco-animate fadeInUp d-none d-lg-block" style="margin-top:120px; padding: 2%;text-align: left;background:#afa93987">
                     <h1 style="font-size:20px;">Why Us ?</h1>
                     <ul style="color: #fff;">
                         <li class="ftco-animate">Practical Approach</li>
