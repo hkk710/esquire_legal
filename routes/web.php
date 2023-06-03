@@ -22,9 +22,41 @@ Route::get('/about', function () {
 });
 
 Route::get('/team', function () {
-    return view('team');
+    return view('team.index');
+});
+Route::get('/team1', function () {
+    return view('team.index1');
 });
 
+/* Team sub pages */
+Route::get('/team/one', function () {
+    return view('team.1');
+});
+Route::get('/team/two', function () {
+    return view('team.2');
+});
+Route::get('/team/three', function () {
+    return view('team.3');
+});
+Route::get('/team/four', function () {
+    return view('team.4');
+});
+Route::get('/team/five', function () {
+    return view('team.5');
+});
+Route::get('/team/teamsix', function () {
+    return view('team.6');
+});
+Route::get('/team/seven', function () {
+    return view('team.7');
+});
+Route::get('/team/eight', function () {
+    return view('team.8');
+});
+Route::get('/team/nine', function () {
+    return view('team.9');
+});
+/* Team sub pages  */
 Route::get('/legalservices', function () {
     return view('legalservices.index');
 });
