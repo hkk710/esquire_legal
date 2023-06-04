@@ -30,6 +30,9 @@
                             </div>
                             <div class="back" style="background-image: url('{{ asset('images/team/mentor.jpg') }}'); background-size:cover;background-position:center;background-repeat:no-repeat;">
                             </div>
+                            <div class="know-more">
+                                
+                            </div>
                         </div>
                     </div>
                 </div>

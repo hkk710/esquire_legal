@@ -12918,6 +12918,7 @@ textarea.form-control {
 }
 
 .block-2 {
+    position: relative;
     margin-bottom: 0;
     -webkit-perspective: 1000;
     -moz-perspective: 1000;
@@ -12928,6 +12929,22 @@ textarea.form-control {
     -moz-transform-style: preserve-3d;
     -ms-transform-style: preserve-3d;
     margin-bottom: 30px;
+}
+
+.block-2 .know-more {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 250ms;
+}
+
+.block-2:hover .know-more {
+    opacity: 1;
+    pointer-events: auto;
 }
 
 @media (max-width: 991.98px) {
@@ -13065,7 +13082,9 @@ textarea.form-control {
     background: #afa93a;
     color: #fff;
     padding: 5px;
-    border-bottom-right-radius: 50%;
+}
+.block-2 .front .top-box h3 {
+    margin: 0;
 }
 .block-2 .back .top-box {
     position: absolute;

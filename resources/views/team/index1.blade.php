@@ -20,6 +20,11 @@
             <div class="row">
                 <div class="col-lg-3 col-sm-6">
                     <div class="block-2 ftco-animate">
+                        <div class="know-more">
+                            <a href="/team/one" class="btn btn-primary">
+                                Know more
+                            </a>
+                        </div>
                         <div class="flipper">
                             <div class="front" style="background-image: url('{{ asset('images/team/mentor.jpg') }}');">
                                 <div class="top-box">
@@ -44,6 +49,11 @@
                 </div>
                 <div class="col-lg-3 col-sm-6">
                     <div class="block-2 ftco-animate">
+                        <div class="know-more">
+                            <a href="/team/two" class="btn btn-primary">
+                                Know more
+                            </a>
+                        </div>
                         <div class="flipper">
                             <div class="front" style="background-image: url('{{ asset('images/team/elite1.jpg') }}');">
                                 <div class="top-box">
@@ -71,7 +81,12 @@
             <div class="row">
                 <div class="col-lg-3 col-sm-12">
                     <div class="block-2 ftco-animate">
-                        <div class="">
+                        <div class="know-more">
+                            <a href="/team/three" class="btn btn-primary">
+                                Know more
+                            </a>
+                        </div>
+                        <div class="flipper">
                             <div class="front" style="background-image: url('{{ asset('images/team/adv1.jpg') }}');">
                                 <div class="box">
                                     <h2>PANKAJ SHARMA</h2>
@@ -85,7 +100,12 @@
                 </div>
                 <div class="col-lg-3 col-sm-12">
                     <div class="block-2 ftco-animate">
-                        <div class="">
+                        <div class="know-more">
+                            <a href="/team/four" class="btn btn-primary">
+                                Know more
+                            </a>
+                        </div>
+                        <div class="flipper">
                             <div class="front" style="background-image: url('{{ asset('images/team/adv2.jpg') }}');">
                                 <div class="box">
                                     <h2>HEMANTH HARI</h2>
@@ -99,7 +119,12 @@
                 </div>
                 <div class="col-lg-3 col-sm-12">
                     <div class="block-2 ftco-animate">
-                        <div class="">
+                        <div class="know-more">
+                            <a href="/team/five" class="btn btn-primary">
+                                Know more
+                            </a>
+                        </div>
+                        <div class="flipper">
                             <div class="front" style="background-image: url('{{ asset('images/team/adv3.jpg') }}');">
                                 <div class="box">
                                     <h2>SETHU S KRISHNA</h2>
@@ -116,7 +141,12 @@
             <div class="row">
                 <div class="col-lg-3 col-sm-12">
                     <div class="block-2 ftco-animate">
-                        <div class="">
+                        <div class="know-more">
+                            <a href="/team/teamsix" class="btn btn-primary">
+                                Know more
+                            </a>
+                        </div>
+                        <div class="flipper">
                             <div class="front" style="background-image: url('{{ asset('images/team/ts1.jpg') }}');">
                                 <div class="box">
                                     <h2>PRASHANT MOHAN</h2>
@@ -130,7 +160,12 @@
                 </div>
                 <div class="col-lg-3 col-sm-12">
                     <div class="block-2 ftco-animate">
-                        <div class="">
+                        <div class="know-more">
+                            <a href="/team/seven" class="btn btn-primary">
+                                Know more
+                            </a>
+                        </div>
+                        <div class="flipper">
                             <div class="front" style="background-image: url('{{ asset('images/team/ts2.jpg') }}');">
                                 <div class="box">
                                     <h2>MALATHI</h2>
@@ -147,7 +182,12 @@
             <div class="row">
                 <div class="col-lg-3 col-sm-12">
                     <div class="block-2 ftco-animate">
-                        <div class="">
+                        <div class="know-more">
+                            <a href="/team/eight" class="btn btn-primary">
+                                Know more
+                            </a>
+                        </div>
+                        <div class="flipper">
                             <div class="front" style="background-image: url('{{ asset('images/team/founder1.jpg') }}');">
                                 <div class="box">
                                     <h2>SRIKANT MOHAN</h2>
@@ -161,7 +201,12 @@
                 </div>
                 <div class="col-lg-3 col-sm-12">
                     <div class="block-2 ftco-animate">
-                        <div class="">
+                        <div class="know-more">
+                            <a href="/team/nine" class="btn btn-primary">
+                                Know more
+                            </a>
+                        </div>
+                        <div class="flipper">
                             <div class="front" style="background-image: url('{{ asset('images/team/founder2.jpg') }}');">
                                 <div class="box">
                                     <h2>SREERAJ MURALIDHARAN</h2>
