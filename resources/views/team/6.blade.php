@@ -6,7 +6,7 @@
     <div class="container">
         <div class="row no-gutters slider-text align-items-end justify-content-center">
             <div class="col-md-9 ftco-animate pb-5 text-center">
-                <h1 class="mb-3 bread">TRANSACTIONS SPECIALISTS</h1>
+                <h1 class="mb-3 bread">TRANSACTIONS SPECIALIST</h1>
                 <p class="breadcrumbs">
                     <span class="mr-2"><a href="/">Home <i class="ion-ios-arrow-forward"></i></a></span>
                     <span class="mr-2"><a href="/team">Team <i class="ion-ios-arrow-forward"></i></a></span>
@@ -42,29 +42,6 @@
                   <p>He has extensive experience in drafting various Agreements and Petitions, advisory on Private Equity investments and takeovers, advisory on preparations for IPO, financial and legal due diligence, and appearances before various regulatory authorities including the National Company Law Tribunal, Regional Director and Registrar of Companies, advisory on various corporate events like bonus issue, preferential issue, capital reduction, etc.</p>
                   <p>He specialises in FEMA and FDI, advise on tax planning, preparation of Project Reports and Information Memorandum, financial due diligence, statutory and internal audits, systems audit, compliance audits, business and project valuations, and consolidation of financial statements of companies having both Indian and international operations.</p>
                   <p>Prashant is also a qualified Insolvency Professional with the IBBI, empanelled with various banks and state industrial development corporations. He is also a regular speaker at various fora and institutes and is also a regular faculty with the State Employment Offices for their various programs.</p>
-              </div>
-          </div>
-          <div class="col-lg-3 col-sm-12">
-              <div class="block-2 ftco-animate">
-                  <div class="">
-                      <div class="front" style="background-image: url('{{ asset('images/team/ts2.jpg') }}');">
-                          <div class="box">
-                              <h2>MALATHI</h2>
-                              <p>ACS</p>
-                          </div>
-                      </div>
-                      <div class="back" style="background-image: url('{{ asset('images/team/ts2.jpg') }}'); background-size:cover;background-position:center;background-repeat:no-repeat;">
-                      </div>
-                  </div>
-              </div>
-          </div>
-          <div class="col-lg-9 col-sm-12">
-              <div class=" ftco-animate">
-                  <h2>MALATHI</h2>
-                  <p>ACS</p>
-                  <p>Malathy is a well-experienced Company Secretary providing independent company law, company secretarial and corporate governance services, company formation, company administration, company secretary services, restructuring etc.</p>
-                  <p>Her core area of practice is the Companies Act, SEBI Regulations, FEMA Regulations, and laws applicable to Financial Sector. She is actively involved in advising Banks, NBFCs, HFCs, several MNCs, and listed companies, Corporate Restructuring, Resolution Services, and corporate law advisory.</p>
-                  <p>Her expertise involves Business Setup & Closure Services, Services to LLP, Corporate Advisory & Compliances, Corporate & Financial Restructuring, Due Diligence, FEMA & RBI related compliances, Audit and Certification services, SEBI and Listing Compliances, Representation and related services etc.</p>
               </div>
           </div>
       </div>
