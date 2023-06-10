@@ -22,7 +22,7 @@
         </div>
     </div>
 
-@include('partials.navbar')
+@include('partials.navbar',['page' => 'home'])
     <!-- END nav -->
 
     <div class="hero-wrap js-fullheight" style="background-image: url('{{ asset('images/bg_1.png') }}');" data-stellar-background-ratio="0.9">

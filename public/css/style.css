@@ -11143,7 +11143,7 @@ h5,
 }
 
 .slider-text p {
-    font-size: 18px;
+    font-size: 15px;
     line-height: 1.5;
     color: rgba(255, 255, 255, 0.7);
 }
@@ -12928,7 +12928,7 @@ textarea.form-control {
     -moz-transform: perspective(1000px);
     -moz-transform-style: preserve-3d;
     -ms-transform-style: preserve-3d;
-    margin-bottom: 30px;
+    /* margin-bottom: 30px; */
 }
 
 .block-2 .know-more {
@@ -12949,7 +12949,7 @@ textarea.form-control {
 
 @media (max-width: 991.98px) {
     .block-2 {
-        margin-bottom: 20px;
+        /* margin-bottom: 20px; */
     }
 }
 
@@ -13023,7 +13023,7 @@ textarea.form-control {
 .block-2 .front {
     -webkit-transform: rotateY(0deg);
     -ms-transform: rotateY(0deg);
-    background: lightgreen;
+    background: #fff;
     z-index: 2;
     background-size: cover;
     background-position: center center;

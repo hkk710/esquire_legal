@@ -1,6 +1,6 @@
 @include('partials.header')
 <body>
-@include('partials.navbar')
+@include('partials.navbar',['page' => 'resources'])
     <section class="hero-wrap hero-wrap-2" style="background-image: url('{{ asset('images/backgroundimage3.png') }}');" data-stellar-background-ratio="0.5">
         <div class="overlay"></div>
         <div class="container">
