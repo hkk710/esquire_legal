@@ -22,13 +22,11 @@
           <div class="col-lg-3 col-sm-12">
               <div class="block-2 ftco-animate">
                   <div class="flipper">
-                      <div class="front" style="background-image: url('{{ asset('images/team/elite1.jpg') }}');">
+                      <div class="front" style="background-image: url('{{ asset('images/team/elite1.png') }}');">
                           <div class="box">
                               <h2>Adv Dr. KRISS VENUGOPAL</h2>
                               <p>B.Tech (Civil) PGDEPM M.Sc (App Psy) LLB</p>
                           </div>
-                      </div>
-                      <div class="back" style="background-image: url('{{ asset('images/team/elite1.jpg') }}'); background-size:cover;background-position:center;background-repeat:no-repeat;">
                       </div>
                   </div>
               </div>

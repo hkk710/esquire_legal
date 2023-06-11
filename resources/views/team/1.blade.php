@@ -22,13 +22,11 @@
             <div class="col-lg-3 col-sm-12">
                 <div class="block-2 ftco-animate">
                     <div class="">
-                        <div class="front" style="background-image: url('{{ asset('images/team/mentor.jpg') }}');">
+                        <div class="front" style="background-image: url('{{ asset('images/team/mentor.png') }}');">
                             <div class="box">
                                 <h2>K. G. MOHAN</h2>
                                 <p>Principal Mentor</p>
                             </div>
-                        </div>
-                        <div class="back" style="background-image: url('{{ asset('images/team/mentor.jpg') }}'); background-size:cover;background-position:center;background-repeat:no-repeat;">
                         </div>
                     </div>
                 </div>

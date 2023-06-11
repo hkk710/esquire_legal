@@ -22,13 +22,11 @@
                 <div class="col-lg-3 col-sm-12">
                     <div class="block-2 ftco-animate">
                         <div class="">
-                            <div class="front" style="background-image: url('{{ asset('images/team/adv3.jpg') }}');">
+                            <div class="front" style="background-image: url('{{ asset('images/team/adv3.png') }}');">
                                 <div class="box">
                                     <h2>SETHU S KRISHNA</h2>
                                     <p>BBA, LLB(Hons)</p>
                                 </div>
-                            </div>
-                            <div class="back" style="background-image: url('{{ asset('images/team/adv3.jpg') }}'); background-size:cover;background-position:center;background-repeat:no-repeat;">
                             </div>
                         </div>
                     </div>

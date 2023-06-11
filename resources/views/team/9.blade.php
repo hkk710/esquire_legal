@@ -22,13 +22,11 @@
                 <div class="col-lg-3 col-sm-12">
                     <div class="block-2 ftco-animate">
                         <div class="">
-                            <div class="front" style="background-image: url('{{ asset('images/team/founder2.jpg') }}');">
+                            <div class="front" style="background-image: url('{{ asset('images/team/founder2.png') }}');">
                                 <div class="box">
                                     <h2>SREERAJ MURALIDHARAN</h2>
                                     <p>BBM, FCS, LLB</p>
                                 </div>
-                            </div>
-                            <div class="back" style="background-image: url('{{ asset('images/team/founder2.jpg') }}'); background-size:cover;background-position:center;background-repeat:no-repeat;">
                             </div>
                         </div>
                     </div>

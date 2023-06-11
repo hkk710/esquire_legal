@@ -22,13 +22,11 @@
                 <div class="col-lg-3 col-sm-12">
                     <div class="block-2 ftco-animate">
                         <div class="">
-                            <div class="front" style="background-image: url('{{ asset('images/team/adv2.jpg') }}');">
+                            <div class="front" style="background-image: url('{{ asset('images/team/adv2.png') }}');">
                                 <div class="box">
                                     <h2>HEMANTH HARI</h2>
                                     <p>M.Com, LLB</p>
                                 </div>
-                            </div>
-                            <div class="back" style="background-image: url('{{ asset('images/team/adv2.jpg') }}'); background-size:cover;background-position:center;background-repeat:no-repeat;">
                             </div>
                         </div>
                     </div>
