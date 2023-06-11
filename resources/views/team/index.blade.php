@@ -23,7 +23,7 @@
         </div>
     </div>
 </section>
-<section class="ftco-section team" >
+<section class="ftco-section team">
         <div class="container-fluid px-md-5">
         <div class="row" style="box-shadow: -4px 8px 30px -20px #000;">
                 <div class="col-lg-2 col-sm-12" style="background-color:#afa939; box-shadow: -4px 8px 30px -20px #000;  display: flex;align-items: center;justify-content: center;">
