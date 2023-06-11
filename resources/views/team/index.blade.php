@@ -28,7 +28,7 @@
         <div class="row" style="box-shadow: -4px 8px 30px -20px #000;">
                 <div class="col-lg-2 col-sm-12" style="background-color:#afa939; box-shadow: -4px 8px 30px -20px #000;  display: flex;align-items: center;justify-content: center;">
                     <h4 style="padding:2%;color:#fff;background-color:#afa939">MENTOR</h4>
-                </di`v>
+                </div>
                 <div  class="col-lg-4 col-sm-6">
                     <div class="block-2 ftco-animate" style="margin-top:5%;">
                         <div class="know-more">
