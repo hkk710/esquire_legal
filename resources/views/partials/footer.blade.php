@@ -6,8 +6,7 @@
                     Copyright &copy;
                     <script>
                         document.write(new Date().getFullYear());
-                    </script> All rights reserved | Developed by <a href="http://www.arunachallawacademy.com/developer " target="_blank ">Recap Digital Solutions</a>
-                    <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                    </script> All rights reserved | Developed by <a href="http://www.arunachallawacademy.com/developer " target="_blank ">Hari</a>                
                 </p>
             </div>
         </div>
