@@ -41,9 +41,10 @@
                                 <!-- <div class="top-box">
                                     <h4>Mentor</h4>
                                 </div> -->
+
                                 <div class="box" style="background-color: #000000;color: #afa939!important;padding: 5%;bottom: 2px;left: 0;right: 0;">
                                     <h2>K. G. MOHAN</h2>
-                                    <p>Principal Mentor</p>
+                                    <p>FCS, M.Com, CAIIB</p>
                                 </div>
                             </div>
                         </div>
