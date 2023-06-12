@@ -76,7 +76,7 @@
       </a>
     </div>
     <div class="member ftco-animate">
-    <h2>Elite Council</h2>
+    <h2>Elite Counsel</h2>
       <img src="{{ asset('images/team/elite1.png') }}" alt="Elite Council 1">
       <h3>Adv Dr. KRISS VENUGOPAL</h3>
       <p>B.Tech (Civil) PGDEPM M.Sc (App Psy) LLB</p>
