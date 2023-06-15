@@ -106,7 +106,7 @@
       <h3>HEMANTH HARI</h3>
       <p>M.Com, LLB</p>
       <a href="/team/four" class="member-link">
-        <i class="fas fa-info-circle"></i>Know more
+        <i class="fas fa-info-circle"> </i>Know more
       </a>
     </div>
     <div class="member ftco-animate">
