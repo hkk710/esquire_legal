@@ -30,7 +30,7 @@
                 <div class="col-md-4 ftco-animate">
                     <div class="case img d-flex align-items-center justify-content-center">
                         <div class="text text-center">
-                            <a href="/resources/nodata"><span class="icon-chat"></span></a>
+                            <a href="​https://sreerajm.blog/""><span class="icon-chat"></span></a>
                             <h3><a href="​https://sreerajm.blog/">Blogs</a></h3>
                         </div>
                     </div>
